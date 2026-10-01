@@ -1,0 +1,1 @@
+# estructura-base-de-arquitectura-hexagonal
